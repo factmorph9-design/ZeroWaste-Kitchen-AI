@@ -1,0 +1,6 @@
+{
+  "name": "Smart Kitchen & Zero Waste Manager",
+  "description": "AI-powered kitchen companion that tracks inventory via image recognition and suggests recipes to reduce food waste.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}

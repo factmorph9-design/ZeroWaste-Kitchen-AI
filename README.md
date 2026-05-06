@@ -1,2 +1,20 @@
-# ZeroWaste-Kitchen-AI
-ZeroWaste Kitchen AI: Scan receipts or your fridge using Gemini AI to track expiry dates. Get custom recipes and reduce food waste effortlessly. Earn credits by watching ads to unlock AI meal plans. Save money and the planet with your smart kitchen assistant!
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/fbc0d054-4be4-4e8a-88db-4b450febc1aa
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
